@@ -1,0 +1,92 @@
+C:/Users/moham/Desktop/SAP1_VHDL/MAR.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/moham/Desktop/SAP1_VHDL/MAR.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity MAR
+-- Compiling architecture Behavioral of MAR
+
+} {} {}} C:/Users/moham/Desktop/SAP1_VHDL/AC.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/moham/Desktop/SAP1_VHDL/AC.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity AC
+-- Compiling architecture Behavioral of AC
+
+} {} {}} C:/Users/moham/Desktop/SAP1_VHDL/controller.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/moham/Desktop/SAP1_VHDL/controller.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity controller
+-- Compiling architecture Behavioral of controller
+
+} {} {}} C:/Users/moham/Desktop/SAP1_VHDL/out_reg.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/moham/Desktop/SAP1_VHDL/out_reg.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity out_reg
+-- Compiling architecture Behavioral of out_reg
+
+} {} {}} C:/Users/moham/Desktop/SAP1_VHDL/SAP1.vhd {2 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/moham/Desktop/SAP1_VHDL/SAP1.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity SAP1
+-- Compiling architecture Behavioral of SAP1
+** Warning: C:/Users/moham/Desktop/SAP1_VHDL/SAP1.vhd(110): (vcom-1013) Initial value of "active_clk" depends on value of signal "clk".
+
+} {} {}} C:/Users/moham/Desktop/SAP1_VHDL/ALU.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/moham/Desktop/SAP1_VHDL/ALU.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ALU
+-- Compiling architecture Behavioral of ALU
+
+} {} {}} C:/Users/moham/Desktop/SAP1_VHDL/B_reg.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/moham/Desktop/SAP1_VHDL/B_reg.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity B_reg
+-- Compiling architecture Behavioral of B_reg
+
+} {} {}} C:/Users/moham/Desktop/SAP1_VHDL/IR.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/moham/Desktop/SAP1_VHDL/IR.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity IR
+-- Compiling architecture Behavioral of IR
+
+} {} {}} C:/Users/moham/Desktop/SAP1_VHDL/pc.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/moham/Desktop/SAP1_VHDL/pc.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity PC
+-- Compiling architecture Behavioral of PC
+
+} {} {}}

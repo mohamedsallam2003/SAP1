@@ -1,0 +1,498 @@
+m255
+K4
+z2
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/moham/Desktop/SAP1_VHDL
+T_opt
+!s110 1715277183
+V5Tf=J=[=U]CQj]6bZhPLD2
+04 5 10 work b_reg behavioral 2
+Z1 04 10 10 work controller behavioral 2
+04 2 10 work ir behavioral 2
+04 3 10 work mar behavioral 2
+04 7 10 work out_reg behavioral 2
+04 2 10 work pc behavioral 2
+04 3 10 work ram behavioral 2
+Z2 04 4 10 work sap1 behavioral 1
+=1-60189564f8a5-663d0d7c-256-6194
+Z3 o-quiet -auto_acc_if_foreign -work work
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1715426304
+V;]o4FM_fWMR1Xf4jU9SdN0
+R2
+=1-60189564f8a5-663f53ff-4d-868
+R3
+R4
+n@_opt1
+R5
+T_opt2
+!s110 1715279468
+V:hF6;jTD?MhhC]m7CJLQ00
+R1
+R2
+=1-60189564f8a5-663d166b-1af-2e18
+R3
+R4
+n@_opt2
+R5
+R0
+Eac
+Z6 w1715284555
+Z7 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z8 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z9 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z10 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 96
+R0
+Z11 8C:/Users/moham/Desktop/SAP1_VHDL/AC.vhd
+Z12 FC:/Users/moham/Desktop/SAP1_VHDL/AC.vhd
+l0
+L6 1
+V<U;;0WJ9a<5@gM0VgR]XO1
+!s100 nW^60;3i>9?3X`P9NZVO`3
+Z13 OL;C;2020.4;71
+32
+Z14 !s110 1715418805
+!i10b 1
+Z15 !s108 1715418805.000000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/moham/Desktop/SAP1_VHDL/AC.vhd|
+Z17 !s107 C:/Users/moham/Desktop/SAP1_VHDL/AC.vhd|
+!i113 0
+Z18 o-work work -2002 -explicit
+Z19 tExplicit 1 CvgOpt 0
+Abehavioral
+R7
+R8
+R9
+R10
+DEx4 work 2 ac 0 22 <U;;0WJ9a<5@gM0VgR]XO1
+!i122 96
+l19
+L16 15
+V1H;GZEbVTH9e@MQ@6U8jP1
+!s100 U<Akbk0=^eY>dR`dQPmE93
+R13
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 0
+R18
+R19
+Ealu
+Z20 w1715418546
+R7
+R8
+R9
+R10
+!i122 97
+R0
+Z21 8C:/Users/moham/Desktop/SAP1_VHDL/ALU.vhd
+Z22 FC:/Users/moham/Desktop/SAP1_VHDL/ALU.vhd
+l0
+L6 1
+VI>2N@K18`CF7YY]3L7@og0
+!s100 nd2c:7IRJcc^HS@<GhJGT2
+R13
+32
+Z23 !s110 1715418806
+!i10b 1
+Z24 !s108 1715418806.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/moham/Desktop/SAP1_VHDL/ALU.vhd|
+Z26 !s107 C:/Users/moham/Desktop/SAP1_VHDL/ALU.vhd|
+!i113 0
+R18
+R19
+Abehavioral
+R7
+R8
+R9
+R10
+DEx4 work 3 alu 0 22 I>2N@K18`CF7YY]3L7@og0
+!i122 97
+l19
+L16 23
+V:<IlO>c^dIKON?Dg=LIXR0
+!s100 h;`M_aNk;;i4RonD4zf_e1
+R13
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 0
+R18
+R19
+Eb_reg
+Z27 w1715276953
+R7
+R8
+R9
+R10
+!i122 98
+R0
+Z28 8C:/Users/moham/Desktop/SAP1_VHDL/B_reg.vhd
+Z29 FC:/Users/moham/Desktop/SAP1_VHDL/B_reg.vhd
+l0
+L6 1
+V3:Q6HllY<Zg=I`5UXhhjB0
+!s100 <^6=J4EMcAZifNJAW[iNf1
+R13
+32
+R23
+!i10b 1
+R24
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/moham/Desktop/SAP1_VHDL/B_reg.vhd|
+Z31 !s107 C:/Users/moham/Desktop/SAP1_VHDL/B_reg.vhd|
+!i113 0
+R18
+R19
+Abehavioral
+R7
+R8
+R9
+R10
+DEx4 work 5 b_reg 0 22 3:Q6HllY<Zg=I`5UXhhjB0
+!i122 98
+l17
+Z32 L14 14
+V;EmVn?K]L7XJ>l>Bd?Ufi1
+!s100 5ajjVCMeAE^W4E;W[_i]K1
+R13
+32
+R23
+!i10b 1
+R24
+R30
+R31
+!i113 0
+R18
+R19
+Econtroller
+Z33 w1715418752
+R7
+R8
+R9
+R10
+!i122 95
+R0
+Z34 8C:/Users/moham/Desktop/SAP1_VHDL/controller.vhd
+Z35 FC:/Users/moham/Desktop/SAP1_VHDL/controller.vhd
+l0
+L6 1
+V@eE5GP>n]3^E`Ilo7BDM@3
+!s100 XJP56Y6UV_UlV1cPn23oA3
+R13
+32
+R14
+!i10b 1
+R15
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/moham/Desktop/SAP1_VHDL/controller.vhd|
+Z37 !s107 C:/Users/moham/Desktop/SAP1_VHDL/controller.vhd|
+!i113 0
+R18
+R19
+Abehavioral
+R7
+R8
+R9
+R10
+DEx4 work 10 controller 0 22 @eE5GP>n]3^E`Ilo7BDM@3
+!i122 95
+l34
+L28 124
+VOZ9VY];[jMJ5FIMaTe7Fd3
+!s100 MD4YX4VUegAnLP@DYoO_T2
+R13
+32
+R14
+!i10b 1
+R15
+R36
+R37
+!i113 0
+R18
+R19
+Eir
+Z38 w1715282439
+R7
+R8
+R9
+R10
+!i122 94
+R0
+Z39 8C:/Users/moham/Desktop/SAP1_VHDL/IR.vhd
+Z40 FC:/Users/moham/Desktop/SAP1_VHDL/IR.vhd
+l0
+L6 1
+Vj3fUQZ]ZGioCMiaACZGiW0
+!s100 :<nV0RMb0iL@`CKeHAW:F1
+R13
+32
+Z41 !s110 1715418804
+!i10b 1
+Z42 !s108 1715418804.000000
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/moham/Desktop/SAP1_VHDL/IR.vhd|
+Z44 !s107 C:/Users/moham/Desktop/SAP1_VHDL/IR.vhd|
+!i113 0
+R18
+R19
+Abehavioral
+R7
+R8
+R9
+R10
+DEx4 work 2 ir 0 22 j3fUQZ]ZGioCMiaACZGiW0
+!i122 94
+l20
+L17 18
+Vo<JIJY`eWHl[gERJV4_OE0
+!s100 a_OLDN?mcPGQ^UA1SF<6]0
+R13
+32
+R41
+!i10b 1
+R42
+R43
+R44
+!i113 0
+R18
+R19
+Emar
+Z45 w1715282638
+R7
+R8
+R9
+R10
+!i122 92
+R0
+Z46 8C:/Users/moham/Desktop/SAP1_VHDL/MAR.vhd
+Z47 FC:/Users/moham/Desktop/SAP1_VHDL/MAR.vhd
+l0
+L6 1
+V=0BMcR<FAiDYURUz9dclA2
+!s100 >AOfb?`NZ7VT2GCL4`e?d1
+R13
+32
+R41
+!i10b 1
+Z48 !s108 1715418803.000000
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/moham/Desktop/SAP1_VHDL/MAR.vhd|
+Z50 !s107 C:/Users/moham/Desktop/SAP1_VHDL/MAR.vhd|
+!i113 0
+R18
+R19
+Abehavioral
+R7
+R8
+R9
+R10
+DEx4 work 3 mar 0 22 =0BMcR<FAiDYURUz9dclA2
+!i122 92
+l18
+L14 16
+V?Ii?f_]jcYB`[4DMLclh=2
+!s100 z?74bI2II`aHVWO1ZPD7T0
+R13
+32
+R41
+!i10b 1
+R48
+R49
+R50
+!i113 0
+R18
+R19
+Eout_reg
+Z51 w1715276991
+R7
+R8
+R9
+R10
+!i122 99
+R0
+Z52 8C:/Users/moham/Desktop/SAP1_VHDL/out_reg.vhd
+Z53 FC:/Users/moham/Desktop/SAP1_VHDL/out_reg.vhd
+l0
+L6 1
+V]b00::RKhJQm`I<oYTJ8C0
+!s100 WVl>0amWU5=Jo_Nm45hRb3
+R13
+32
+R23
+!i10b 1
+R24
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/moham/Desktop/SAP1_VHDL/out_reg.vhd|
+Z55 !s107 C:/Users/moham/Desktop/SAP1_VHDL/out_reg.vhd|
+!i113 0
+R18
+R19
+Abehavioral
+R7
+R8
+R9
+R10
+DEx4 work 7 out_reg 0 22 ]b00::RKhJQm`I<oYTJ8C0
+!i122 99
+l17
+R32
+VLG9`_?9g4HUeNUBeg^Sj[0
+!s100 cLNb`cbE07FP8SDT^>1^[2
+R13
+32
+R23
+!i10b 1
+R24
+R54
+R55
+!i113 0
+R18
+R19
+Epc
+Z56 w1715282468
+R7
+R8
+R9
+R10
+!i122 91
+R0
+Z57 8C:/Users/moham/Desktop/SAP1_VHDL/pc.vhd
+Z58 FC:/Users/moham/Desktop/SAP1_VHDL/pc.vhd
+l0
+L6 1
+VMeZ`VHKK_<BlKdX=oz2NN2
+!s100 2>0oOQ2`eg8RKjb>01d?J0
+R13
+32
+Z59 !s110 1715418803
+!i10b 1
+R48
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/moham/Desktop/SAP1_VHDL/pc.vhd|
+Z61 !s107 C:/Users/moham/Desktop/SAP1_VHDL/pc.vhd|
+!i113 0
+R18
+R19
+Abehavioral
+R7
+R8
+R9
+R10
+DEx4 work 2 pc 0 22 MeZ`VHKK_<BlKdX=oz2NN2
+!i122 91
+l19
+L15 18
+V>0d3[^LU3jUM9a`[RR7IY2
+!s100 FP1ifo5gfo_T[f69aGDNO0
+R13
+32
+R59
+!i10b 1
+R48
+R60
+R61
+!i113 0
+R18
+R19
+Eram
+Z62 w1715426283
+R7
+R8
+R9
+R10
+!i122 103
+R0
+Z63 8C:/Users/moham/Desktop/SAP1_VHDL/RAM.vhd
+Z64 FC:/Users/moham/Desktop/SAP1_VHDL/RAM.vhd
+l0
+L6 1
+V7deZBzF8eO[X4dRlV@n>43
+!s100 =JK^3gnQgAnKM8:ibV7bE1
+R13
+32
+Z65 !s110 1715426292
+!i10b 1
+Z66 !s108 1715426291.000000
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/moham/Desktop/SAP1_VHDL/RAM.vhd|
+Z68 !s107 C:/Users/moham/Desktop/SAP1_VHDL/RAM.vhd|
+!i113 0
+R18
+R19
+Abehavioral
+R7
+R8
+R9
+R10
+DEx4 work 3 ram 0 22 7deZBzF8eO[X4dRlV@n>43
+!i122 103
+l33
+L13 23
+VIILOC7D??VITZg1E1ORnG1
+!s100 inR5^35aNmLMPNL99D8;N2
+R13
+32
+R65
+!i10b 1
+R66
+R67
+R68
+!i113 0
+R18
+R19
+Esap1
+Z69 w1715418787
+R7
+R8
+R9
+R10
+!i122 100
+R0
+Z70 8C:/Users/moham/Desktop/SAP1_VHDL/SAP1.vhd
+Z71 FC:/Users/moham/Desktop/SAP1_VHDL/SAP1.vhd
+l0
+L6 1
+V0h38imcZg_`XQelLzOdR:3
+!s100 P:W>PPZY1PJzEBNCY?:I92
+R13
+32
+Z72 !s110 1715418807
+!i10b 1
+Z73 !s108 1715418807.000000
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/moham/Desktop/SAP1_VHDL/SAP1.vhd|
+Z75 !s107 C:/Users/moham/Desktop/SAP1_VHDL/SAP1.vhd|
+!i113 0
+R18
+R19
+Abehavioral
+R7
+R8
+R9
+R10
+DEx4 work 4 sap1 0 22 0h38imcZg_`XQelLzOdR:3
+!i122 100
+l112
+L12 114
+Vb85jZ?4HCa4h6QfLC@Y<o3
+!s100 WR4`[SNGl3`Xk4aKhXC]]0
+R13
+32
+R72
+!i10b 1
+R73
+R74
+R75
+!i113 0
+R18
+R19
